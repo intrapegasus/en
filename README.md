@@ -1,1 +1,1 @@
-# en.basyiri.my.id
+# basyiri.my.id/en
