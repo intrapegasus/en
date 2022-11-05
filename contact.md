@@ -7,6 +7,7 @@ is_contact: true
 
 * [Privacy Policy](http://azhar.basyiri.my.id/p/privacy.html)
 * [Terms & Conditions](http://azhar.basyiri.my.id/p/terms-and-conditions.html)
+* [Frequently Asked Questions](http://basyiri.my.id/en/faq)
 
 ## HUB
 
