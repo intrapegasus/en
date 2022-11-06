@@ -8,8 +8,6 @@ layout: default
 
 I am Azhar Basyiri Hartono (Azhar) was born in Pemalang, Central Java, Indonesia on April 19, 1999 and comes from a broken home and poor family, a high school graduate and did not go to college but I can prove that low education is not a barrier in doing something good by starting slowly but surely, no need to hesitate in doing something because I have gone through failure many times but I can rise and be great, I do not give up.
 
-This is my personal website and of course I have learned something about the website since I was in junior high school, I remember that at that time it seemed like it was not important and I was underestimated by them, now I have become an important person like this website, So what is done from 10 years ago determines what a person will become in 10 years in the future
-
 ## Glimpse Of Myself
 
 I study various aspects of life lessons, sometimes I don't even need to take something seriously that makes me sad, on the Internet or in the real world it's the same. You know that my grades are not as good as my friends but grades are not everything, I have lived life from the bottom and I feel how difficult life is, learning does not always have to be from school but can be from anywhere, research whatever is available and store it in the brain then run it in everyday life then knowledge will be useful not only for yourself but for others
