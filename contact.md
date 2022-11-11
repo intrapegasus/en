@@ -5,9 +5,9 @@ is_contact: true
 
 ## Announcement
 
-* [Privacy Policy](http://azhar.basyiri.my.id/p/privacy.html)
-* [Terms & Conditions](http://azhar.basyiri.my.id/p/terms-and-conditions.html)
-* [Frequently Asked Questions](http://basyiri.my.id/en/faq)
+* [Privacy Policy](https://azhar.basyiri.my.id/p/privacy.html)
+* [Terms & Conditions](https://azhar.basyiri.my.id/p/terms-and-conditions.html)
+* [Frequently Asked Questions](https://basyiri.my.id/en/faq)
 
 ## HUB
 
