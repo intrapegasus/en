@@ -47,17 +47,17 @@ Year | Album           | Title                  | Status
 ## TasyaNPSR (2020-2021)
 TasyaNPSR (Non Profit Social Responsibility) is an activity to help those in need and does not raise public funds in any form, was founded by Tasya ID Media* for social activities like a company with their Corporate Social Responsibility and has been discontinued along with the end of Tasya ID Media**
 
-Year      | Income         | Nominal
-----------|----------------|--------------------------------
-2017-2020 | Personal Funds |  Est. 300K IDR (19.39 USD)/Mo
+Year  | Income         | Nominal
+------|----------------|------------------------------------------
+17-20 | Personal Funds |  Est. 300K IDR (19.39 USD)/Mo
 
-Year      | Expenditure                      | Nominal
-----------|----------------------------------|------------------------
-2020-2021 | Transportation                   | 200K IDR (14.00 USD) 
-2020-2021 | Communication                    | 289K IDR (20.22 USD)
-2020-2021 | Food & Beverages                 | 612K IDR (42.83 USD) 
-2020-2021 | Others (Include: Sulsel, Sulbar) | 1003K IDR (70.23 USD)
-2020-2021 |Total:                            | 2104K IDR (147.28 USD) 
+Year  | Expenditure                      | Nominal
+------|----------------------------------|------------------------
+20-21 | Transportation                   | 200K IDR (14.00 USD) 
+20-21 | Communication                    | 289K IDR (20.22 USD)
+20-21 | Food & Beverages                 | 612K IDR (42.83 USD) 
+20-21 | Others (Include: Sulsel, Sulbar) | 1003K IDR (70.23 USD)
+20-21 | Total:                           | 2104K IDR (147.28 USD) 
 
 * *Tasya ID Media (Tasya Azhar September Youth Anniversary, International Deliberative Media) is an individual public domain project, respects all aspects of a healthy democracy by creating contemporary works & social activities<br>
 
