@@ -21,7 +21,7 @@ is_contact: true
 
 ## Mailing Address
 
-> North Bekasi
+> Prima Harapan Regency L 12 NO 35
 >
 > Bekasi, West Java, 17123
 >
