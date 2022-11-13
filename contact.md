@@ -15,7 +15,9 @@ is_contact: true
 
 * Email 2: [priscilla@basyiri.my.id](mailto:priscilla@basyiri.my.id)
 
-* Phone: [+62-895-41297-3843](tel:+62-895-41297-3843)
+* Phone 1: [+62-895-41297-3843](tel:+62-895-41297-3843)
+
+* Phone 2: [+62-821-2455-0821](tel:+62-821-2455-0821)
 
 ---
 
