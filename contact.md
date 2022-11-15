@@ -33,7 +33,7 @@ is_contact: true
 
 ## Archive (2019 - 2021)
 
-* [Main Page - TIM](https://archive.org/details/@tasya_id_media)
+* [Main Page - TIM](https://basyiri.my.id/goodbye)
 * [Instagram - TIM](https://instagram.com/azharbasyirihvrtono)
 
 ## Social
