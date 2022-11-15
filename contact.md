@@ -5,9 +5,9 @@ is_contact: true
 
 ## Announcement
 
+* [Top Secret](https://basyiri.my.id/S3CR3T)
 * [Privacy Policy](https://azhar.basyiri.my.id/p/privacy.html)
 * [Terms & Conditions](https://azhar.basyiri.my.id/p/terms-and-conditions.html)
-* [Top Secret](https://basyiri.my.id/S3CR3T)
 * [Frequently Asked Questions](https://basyiri.my.id/en/faq)
 
 ## HUB
