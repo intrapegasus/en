@@ -43,6 +43,35 @@ Year | Album           | Title                  | Status
 * *Tasya ID Media<br>
 * **Outside of Tasya ID Media
 
+## Sovereign Internet
+
+TIMSI closed project that turned into the Azhar Firewall to secure cyber attacks by limiting access to incoming and outgoing internet traffic, only applies to Azhar's local network, temporary restrictions for guests who want to access the service while permanently cannot be opened and please use the cellular network each other's privacy, all activities through Azhar's local network will be monitored even if encrypted it will be decrypted automatically for security reasons.
+
+Services  | Status   | Time period  |
+--------- |----------|--------------|
+Facebook  | Blocked  | Temporary    |
+Instagram | Blocked  | Temporary    |
+WhatsApp  | Blocked  | Temporary    |
+Messenger | Blocked  | Temporary    |
+Twitter   | Blocked  | Temporary    |
+Snapchat  | Blocked  | Permanently  |   
+Tiktok    | Blocked  | Permanently  |
+G-Search  | Blocked  | Temporary    |
+G-Drive   | Blocked  | Temporary    |
+G-Maps    | Blocked  | Temporary    | 
+YouTube   | Blocked  | Temporary    |
+Telegram  | Blocked  | Permanently  |
+Signal    | Blocked  | Permanently  |
+Threema   | Blocked  | Permanently  |
+Twitch    | Blocked  | Permanently  |
+Reddit    | Blocked  | Permanently  |
+Discord   | Blocked  | Permanently  |
+Spotify   | Blocked  | Permanently  |
+Joox      | Blocked  | Permanently  |
+Netflix   | Blocked  | Permanently  |
+Wikipedia | Blocked  | Temporary    |
+Line      | Blocked  | Permanently  |
+
 
 ## TasyaNPSR (2020-2021)
 TasyaNPSR (Non Profit Social Responsibility) is an activity to help those in need and does not raise public funds in any form, was founded by Tasya ID Media* for social activities like a company with their Corporate Social Responsibility and has been discontinued along with the end of Tasya ID Media**
