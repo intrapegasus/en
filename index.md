@@ -94,6 +94,10 @@ Year  | Expenditure                      | Nominal
 <br>2019.9.28 - 2021.9.28
 <br>European Union
 
+## End of Life
+
+After a long time of approximately 5 years of consistency in the open source world since 2017 and actually I have wanted to end it since the beginning of 2022 but I am still kind enough to extend it for the next few months until finally with a heavy heart on November 22 2022 I decided to stop permanently due to lack of appreciation from many parties and future updates about myself both in social media and some of the pages of this website will be discontinued, in the future I will no longer contribute to any open source projects and all of them will become closed source projects
+
 ## Special Thanks
 
 * God
