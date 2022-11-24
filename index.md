@@ -102,6 +102,15 @@ After a long time of approximately 5 years of consistency in the open source wor
 
 I applied closed source information after finding the concept, anyone who wants to get information about me is similar to the free version which quality may be the same or it can be worse or better depending on how I want to make the content, it must be paid and not free, free if someone are part of the TIM family, namely those who contribute directly or indirectly, I will charge an expensive rate for individuals and 10 times more expensive for corporations
 
+.            | Latest Content | Current Research | Recent Resume
+-------------|----------------|------------------|-----------------
+EOL-112222*  | Free           | Free             | Free
+PR060606NW** | Paid           | Paid             | Paid
+
+* *Free service is no longer available and is just an example and a portfolio of how someone would rate me
+
+* **Paid services are only for individuals or entities or a particular entity, do not serve if an entity has previously conducted research on free services and if you want to be served, you must pay in advance for what was done in previous research, I can refuse an entity that not having good ethics refers to free services without exception, individuals representing an entity will be judged as corporate parties, individuals are subjects that are not bound by any corporate interests.
+
 ## Special Thanks
 
 * God
