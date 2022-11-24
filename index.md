@@ -98,6 +98,10 @@ Year  | Expenditure                      | Nominal
 
 After a long time of approximately 5 years of consistency in the open source world since 2017 and actually I have wanted to end it since the beginning of 2022 but I am still kind enough to extend it for the next few months until finally with a heavy heart on November 22 2022 I decided to stop permanently due to lack of appreciation from many parties and future updates about myself both in social media and some of the pages of this website will be discontinued, in the future I will no longer contribute to any open source projects and all of them will become closed source projects
 
+## Closed Source (PR060606NW)
+
+I applied closed source information after finding the concept, anyone who wants to get information about me is similar to the free version which quality may be the same or it can be worse or better depending on how I want to make the content, it must be paid and not free, free if someone are part of the TIM family, namely those who contribute directly or indirectly, I will charge an expensive rate for individuals and 10 times more expensive for corporations
+
 ## Special Thanks
 
 * God
