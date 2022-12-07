@@ -1,6 +1,6 @@
 ## Resolution (Completion Stage)
 
-PR060606NW was made very quickly in less than 1 month and has met expectations which are quite satisfying with simple and makeshift infrastructure but can still be made without having to use fancy infrastructure because limitations are not a barrier in making works after having to fail in EOL-112222 with this As a commitment, I offer 10 years long term support (LTS) from 2022 to 2032 as long as you are a customer on PR060606W and as long as I am given a lifespan in life.
+PR060606NW was made very quickly in less than 1 month and has met expectations which are quite satisfying with simple and makeshift infrastructure but can still be made without having to use fancy infrastructure because limitations are not a barrier in making works after having to fail in EOL-112222 with this As a commitment, I offer 10 years long term support (LTS) from 2022 to 2032 as long as you are a priority customer on PR060606NW and as long as I am given a lifespan in life.
 
 
 Years       | Social          | Internet Speed      | Status
@@ -17,7 +17,7 @@ Years       | Social          | Internet Speed      | Status
 
 * Twitter is used for something that is serious combined with things that are not serious, the target audience is more adults but there are no restrictions for young people who want to see what threads are made, there are no pictures, only text, so that priority is given to people who are diligent or like to read, not recommended for people who are lazy to read.
 
-* YouTube is used as freemium or free content that users are required to log in using a google account to view and are not allowed to download externally, external download permission is available for those who pay with restrictions may not be re-uploaded on any platform, available for additional entertainment for those who have previously subscribed or previously unsubscribed or people who have never subscribed by viewing available videos without having to pay any additional fees.
+* YouTube is used as freemium or free content that users are required to log in using a google account to view and are not allowed to download externally, external download permission is available for those who pay (priority consumer) with restrictions may not be re-uploaded on any platform, available for additional entertainment for those who have previously subscribed or previously unsubscribed or people who have never subscribed by viewing available videos without having to pay any additional fees.
 
 * Content creation is carried out with several levels of difficulty according to the internet speed as well as the idea, "Facebook, Instagram & YouTube" uses an internet connection from Telkomsel in 3G mode while "Twitter" uses an internet connection from Three in 2G mode. This is differentiated so that customers can know that all content creation is based on seriousness as well as using something that is not cheap and not easy so that they can appreciate it more and do not suffer the same fate as EOL-112222, customers get what they pay for and according to the benefits they get as customer appreciation of me.
 
