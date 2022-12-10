@@ -34,10 +34,10 @@ is_contact: true
 
 ## Social (PR060606NW)
 
-1. [Facebook](https://facebook.com/intrapegasus)
-2. [Instagram](https://instagram.com/intrapegasus)
-3. [Twitter](https://twitter.com/intrapegasus)
-4. [YouTube](https://www.youtube.com/@intrapegasus/videos)
+1. [Facebook](https://basyiri.my.id/facebook)
+2. [Instagram](https://basyiri.my.id/instagram)
+3. [Twitter](https://basyiri.my.id/twitter)
+4. [YouTube](https://basyiri.my.id/youtube)
 5. [Resolution (LTS)](resolution)
 
 ## Archive (2019 - 2021)
