@@ -18,13 +18,14 @@ is_contact: true
 
 ## Social (PR060606NW)
 
-1. [Twitter](https://basyiri.my.id/twitter)
-2. [YouTube](https://basyiri.my.id/youtube)
-3. [Facebook](https://basyiri.my.id/facebook)
-4. [Instagram](https://basyiri.my.id/instagram)
-5. [Top Secret](https://basyiri.my.id/S3CR3T)
-6. [Resolution (LTS)](resolution)
-7. [Frequently Asked Questions](https://basyiri.my.id/en/faq)
+1. [Blog](https://en.basyiri.my.id)
+2. [Twitter](https://basyiri.my.id/twitter)
+3. [YouTube](https://basyiri.my.id/youtube)
+4. [Facebook](https://basyiri.my.id/facebook)
+5. [Instagram](https://basyiri.my.id/instagram)
+6. [Top Secret](https://basyiri.my.id/S3CR3T)
+7. [Resolution (LTS)](resolution)
+8. [Frequently Asked Questions](https://basyiri.my.id/en/faq)
 
 ---
 
